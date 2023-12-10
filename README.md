@@ -1,10 +1,10 @@
 <h1 align="center">👋 Hello! I'm Pundima Lakshan</h1>
 
 <p align="center">
-Computer Engineering undergraduate, Intern Software Engineer and A person who love to learn new things.
+Computer Engineering undergraduate, Software Engineer (Intern) loves learning new things.
 </p>
 <p align="center">
-Like to binge watch and read anime and webnovels 😄
+I like to binge-watch and binge-read anime and web novels 😄
 </p>
 
 <div align="center">
