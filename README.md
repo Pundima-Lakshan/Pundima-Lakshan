@@ -4,7 +4,7 @@
 Computer Engineering undergraduate, Software Engineer (Intern) loves learning new things.
 </p>
 <p align="center">
-I like to binge-watch and binge-read anime and web novels 😄
+Learning : React, Nextjs, C++, DSA
 </p>
 
 <div align="center">
