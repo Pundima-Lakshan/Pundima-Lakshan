@@ -4,7 +4,7 @@
 Computer Engineering undergraduate, Software Engineer (Intern) loves learning new things.
 </p>
 <p align="center">
-Learning : React, Nextjs, Java, DSA
+Working with : React, Spring boot
 </p>
 
 <div align="center">
