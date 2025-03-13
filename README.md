@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello! I'm Pundima Lakshan</h1>
 
 <p align="center">
-Computer Engineering undergraduate, Software Engineer (Intern) loves learning new things.
+A Computer Engineering Undergraduate who loves to learn how things work.
 </p>
 <p align="center">
 Check out the repos 
