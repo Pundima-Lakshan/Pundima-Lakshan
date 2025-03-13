@@ -4,7 +4,7 @@
 Computer Engineering undergraduate, Software Engineer (Intern) loves learning new things.
 </p>
 <p align="center">
-Working with : React, Spring boot
+Check out the repos 
 </p>
 
 <div align="center">
