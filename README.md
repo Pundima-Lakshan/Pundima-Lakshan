@@ -4,6 +4,9 @@
 A Computer Engineering Undergraduate who loves to learn how things work.
 </p>
 <p align="center">
+Mostly doing FE stuff but dabbling in BE as well (go, java/spring-boot)
+</p>
+<p align="center">
 Check out the repos 
 </p>
 
