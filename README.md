@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello! I'm Pundima Lakshan</h1>
 
 <p align="center">
-A Computer Engineering Undergraduate who loves to learn how things work.
+A Software Engineer who loves to learn how things work.
 </p>
 <p align="center">
 Mostly doing FE stuff but dabbling in BE as well (go, java/spring-boot)
