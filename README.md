@@ -4,7 +4,7 @@
 A Software Engineer who loves to learn how things work.
 </p>
 <p align="center">
-Mostly doing FE stuff but dabbling in BE as well (go, java/spring-boot)
+Mostly doing FE stuff but dabbling in BE as well (C#/.NET)
 </p>
 <p align="center">
 Check out the repos 
